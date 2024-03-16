@@ -1,6 +1,6 @@
 # Project Title
 
-A brief description of what this project does and who it's for
+TravelMate is a dynamic web application crafted with React.js and NodeJs, tailored to offer users a hassle-free experience in planning their travel accommodations. Whether it's booking hotels, flights, or exploring various destinations, TravelMate is your ultimate companion in the realm of travel.
 
 
 ## Features
