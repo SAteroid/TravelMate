@@ -33,3 +33,4 @@ Run the development server: npm run dev
 Open your browser and visit http://localhost:3000 to see the app in action.
 
 ## Preview Images ##
+![Screenshot from 2024-03-16 20-51-20](https://github.com/SAteroid/TravelMate/assets/113542306/9b615e06-aefa-4e6b-b7be-99815562c7ef)
