@@ -31,3 +31,5 @@ install dependencies: npm install
 Run the development server: npm run dev
 
 Open your browser and visit http://localhost:3000 to see the app in action.
+
+## Preview Images ##
